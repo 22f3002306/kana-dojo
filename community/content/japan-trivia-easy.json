@@ -283,5 +283,16 @@
     "Yatai"
   ],
   "correctIndex": 0
-}
+  },
+  {
+  "question": "Which Japanese dish is made of raw fish over rice?",
+  "difficulty": "easy",
+  "answers": [
+    "Sushi",
+    "Tempura",
+    "Tonkatsu",
+    "Okonomiyaki"
+  ],
+  "correctIndex": 0
+  }
 ]
