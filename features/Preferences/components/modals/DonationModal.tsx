@@ -112,7 +112,7 @@ export default function DonationModal({
                 <button
                   type='button'
                   onClick={handleClose}
-                  className='inline-flex items-center justify-center rounded-2xl px-5 py-4 text-lg font-medium text-(--secondary-color) transition-colors hover:cursor-pointer hover:bg-(--background-color)'
+                  className='inline-flex items-center justify-center rounded-2xl px-5 py-4 text-lg font-medium text-(--secondary-color) transition-colors hover:cursor-pointer hover:bg-(--background-color) hover:text-(--main-color)'
                 >
                   Maybe later
                 </button>
