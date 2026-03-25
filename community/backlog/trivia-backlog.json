@@ -136,7 +136,7 @@
       "Arctic Ocean"
     ],
     "correctIndex": 2,
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -151,7 +151,7 @@
     ],
     "correctIndex": 1,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 12,
@@ -962,7 +962,7 @@
       "Chankonabe"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
