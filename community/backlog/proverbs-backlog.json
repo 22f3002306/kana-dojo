@@ -275,7 +275,7 @@
     "romaji": "Saru mo ki kara ochiru",
     "english": "Even monkeys fall from trees",
     "meaning": "Experts can make mistakes",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -284,7 +284,7 @@
     "romaji": "Fukusui bon ni kaerazu",
     "english": "Spilled water will not return to the tray",
     "meaning": "What is done cannot be undone",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -330,7 +330,7 @@
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Those who stand out may be criticized",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 38,
@@ -608,7 +608,7 @@
     "romaji": "Warau kado ni wa fuku kitaru",
     "english": "Fortune comes to a laughing gate",
     "meaning": "Good fortune comes to those who smile",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -617,7 +617,7 @@
     "romaji": "Ryouyaku wa kuchi ni nigashi",
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice can be hard to hear",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -627,7 +627,7 @@
     "english": "One cry of the crane",
     "meaning": "A single influential person settles a matter",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 71,
